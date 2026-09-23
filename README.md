@@ -2,6 +2,8 @@
      alt="800"
      width="400">
 
+# THIS FORK OF LUX IS INTENDED FOR USE WITH MY [SOURCE SDK FORK](https://github.com/BitlDevelopmentStudios/source-sdk-2013).
+
 # LUX for Source SDK 2013
 
 **LUX** is a Shader Modification for the [Source Engine](https://developer.valvesoftware.com/wiki/Source).<br>
